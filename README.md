@@ -2,15 +2,15 @@
 
 
 
-# BMW Clone Project.
+ BMW Clone Project.
 
 
 
-# Used Technologies:
+ Used Technologies:
 
-# • HTML5, 
-# • CSS,
-# • SCSS,
+ • HTML5, 
+ • CSS,
+ • SCSS,
 
 
 
